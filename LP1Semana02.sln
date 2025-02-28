@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmoothOperator", "SmoothOperator\SmoothOperator.csproj", "{AA2FF99E-D48B-4615-94D4-4539C2144F4C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VariousOperators", "VariousOperators\VariousOperators.csproj", "{9236E434-080D-4379-A687-6FB3BA928D0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{AA2FF99E-D48B-4615-94D4-4539C2144F4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA2FF99E-D48B-4615-94D4-4539C2144F4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA2FF99E-D48B-4615-94D4-4539C2144F4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9236E434-080D-4379-A687-6FB3BA928D0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9236E434-080D-4379-A687-6FB3BA928D0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9236E434-080D-4379-A687-6FB3BA928D0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9236E434-080D-4379-A687-6FB3BA928D0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
